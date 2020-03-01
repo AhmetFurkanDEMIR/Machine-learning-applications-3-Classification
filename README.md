@@ -10,6 +10,9 @@ SGDC = bu sınıf, çok büyük veri setlerini verimli bir şekilde idare edebil
 bu kısmendir çünkü: sgd eğitim örneklerini teker teker bağımsız olarak ele alır.
 (buda sgd'yi çevrim içi öğrenme için çok uygun hale getirir)
 
+![image](https://user-images.githubusercontent.com/54184905/75623560-1efb8200-5bbc-11ea-990b-a3cc1cc10288.png)
+
+
 # Eğitim ve Test verileri
 
 Elimizde bulunan veri setini istediğimiz sayıda eşit parçalara ayırıyoruz.

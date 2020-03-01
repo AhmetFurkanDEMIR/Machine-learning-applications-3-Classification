@@ -1,6 +1,6 @@
 #  Machine learning applications 3 Classification 
 
-Bu MINS (lise öğrencilerinin el yazılarıyla yazdıkları rakamlar)(70000 veri) veri kümesini kullanarak bir sınıflandırma işlemi gerçekleştireceğiz.
+Bu örnekte MINS (lise öğrencilerinin el yazılarıyla yazdıkları rakamlar)(70000 veri) veri kümesini kullanarak bir sınıflandırma işlemi gerçekleştireceğiz.
 
 # Performans ölçüsü (çapraz doğrulama)
 

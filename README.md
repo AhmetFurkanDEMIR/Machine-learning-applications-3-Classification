@@ -20,6 +20,9 @@ Bu yöntem ile Eğitim ve Test verilerini parçalamış olduk.
 
 # Karmaşıklık Matrisi
 
+Karmaşıklık matrisi tahminlerin doğruluğu hakkında bilgi veren bir ölçüm aracıdır.
+Arkasında yatan mantık aslında basit, ama ölçümün doğruluğu hakkında anlaşılması kolay bilgiler sağladığı için özellikle sınıflandırma algoritmalarında sıklıkla kullanılıyor.
+
 
 
 

@@ -27,6 +27,11 @@ Arkasında yatan mantık aslında basit, ama ölçümün doğruluğu hakkında a
 
 ![cost1](https://user-images.githubusercontent.com/54184905/75623289-8bc14d00-5bb9-11ea-9715-e83d301ac81a.png)
 
+# F1 skoru
+
+F 1 puan (aynı zamanda F-skor ya da F ölçü ) bir testin doğruluğunu bir ölçüsüdür. Hem gördüğü hassas p ve hatırlama r puanı hesaplamak için test: p sınıflandırıcı tarafından döndürülen tüm olumlu sonuçların sayısına bölünerek doğru pozitif sonuç sayısıdır ve r bölü doğru pozitif sonuç sayısıdır tüm ilgili örneklerin sayısı (pozitif olarak tanımlanması gereken tüm örnekler). F 1 skoru harmonik ortalamadırbir hassasiyet ve hatırlama bir F, 1 puanı en iyi 1 de değerini (mükemmel hassasiyet ve geri çağırma) ve 0 en kötü ulaşır.
+
+![image](https://user-images.githubusercontent.com/54184905/75623349-39346080-5bba-11ea-8762-3aabee086f51.png)
 
 
 

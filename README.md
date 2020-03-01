@@ -33,6 +33,8 @@ F 1 puan (aynı zamanda F-skor ya da F ölçü ) bir testin doğruluğunu bir ö
 
 ![image](https://user-images.githubusercontent.com/54184905/75623349-39346080-5bba-11ea-8762-3aabee086f51.png)
 
+# ROC Eğrisi
+
 
 
 

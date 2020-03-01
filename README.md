@@ -18,5 +18,11 @@ Bu yöntem ile Eğitim ve Test verilerini parçalamış olduk.
 
 ![1280px-Çapraz_doğrulama_diyagramı svg](https://user-images.githubusercontent.com/54184905/75623207-dee6d000-5bb8-11ea-8576-53a5df2475b8.png)
 
+# Karmaşıklık Matrisi
+
+
+
+
+
 
 

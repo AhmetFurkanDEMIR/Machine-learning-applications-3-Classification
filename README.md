@@ -39,6 +39,9 @@ F 1 puan (aynı zamanda F-skor ya da F ölçü ) bir testin doğruluğunu bir ö
 
 ![image](https://user-images.githubusercontent.com/54184905/75623411-b9f35c80-5bba-11ea-90f0-f404dd3bd120.png)
 
+# K-En Yakın Komşu Algoritması (Knn)
+
+k=x olarak aldık. Bu durumda en yakın x komşuya göre sınıflandırma yapılacaktır. Örnek veri setine katılacak olan yeni verinin, mevcut verilere göre uzaklığı tek tek hesaplanır. İlgili uzaklık fonksiyonları yardımıyla. İlgili uzaklılardan en yakın k komşu ele alınır. Öznitelik değerlerine göre k komşu veya komşuların sınıfına atanır. veri setlerini internet üzerinden alıp sınıflandırma yapmaktadır.
 
 
 

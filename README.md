@@ -2,6 +2,8 @@
 
 Bu örnekte MINS (lise öğrencilerinin el yazılarıyla yazdıkları rakamlar)(70000 veri) veri kümesini kullanarak bir sınıflandırma işlemi gerçekleştireceğiz.
 
+Kodu incelemeden önce aşağıdaki bilgileri okuyunuz(Bilgi amaçlı).
+
 # Performans ölçüsü (çapraz doğrulama)
 
 SGDC = bu sınıf, çok büyük veri setlerini verimli bir şekilde idare edebilir.

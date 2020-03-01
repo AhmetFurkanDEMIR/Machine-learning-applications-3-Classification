@@ -35,7 +35,7 @@ F 1 puan (aynı zamanda F-skor ya da F ölçü ) bir testin doğruluğunu bir ö
 
 # ROC Eğrisi
 
-
+ROC eğrisinde ise (grafik) tüm eşik değerlere göre elde edilen sensitivite y ekseninde, spesifite ise (aslen 1- spesifite olarak) x ekseninde noktalar halinde belirtilerek en sonunda birleştirilir ve ortaya ROC eğrisi çıkar. Analiz sonunda AUC olarak belirtilen değer ‘Eğri Altında Kalan Alanı (EAA)’ temsil eder ve 1’e yaklaştıkça tanı değeri yükselir. %100’lük tanı gücünde EAA 1’e eşit olur. EAA ve %95 güven aralığı belirlenir. 0.50 değeri (fark yoktur) güven aralığı dışında ise istatistiksel olarak anlamlı sonuç elde edilir. Pratik olarak eşik değer eğri üzerinde sol üst köşeye (0;1 koordinatlarına) en yakın olan noktadır.
 
 ![image](https://user-images.githubusercontent.com/54184905/75623411-b9f35c80-5bba-11ea-90f0-f404dd3bd120.png)
 
@@ -43,6 +43,7 @@ F 1 puan (aynı zamanda F-skor ya da F ölçü ) bir testin doğruluğunu bir ö
 
 k=x olarak aldık. Bu durumda en yakın x komşuya göre sınıflandırma yapılacaktır. Örnek veri setine katılacak olan yeni verinin, mevcut verilere göre uzaklığı tek tek hesaplanır. İlgili uzaklık fonksiyonları yardımıyla. İlgili uzaklılardan en yakın k komşu ele alınır. Öznitelik değerlerine göre k komşu veya komşuların sınıfına atanır. veri setlerini internet üzerinden alıp sınıflandırma yapmaktadır.
 
+![image](https://user-images.githubusercontent.com/54184905/75623497-8ebd3d00-5bbb-11ea-8bc5-6a611ccbfc15.png)
 
 
 

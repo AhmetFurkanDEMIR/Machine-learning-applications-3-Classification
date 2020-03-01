@@ -37,5 +37,9 @@ F 1 puan (aynı zamanda F-skor ya da F ölçü ) bir testin doğruluğunu bir ö
 
 
 
+![image](https://user-images.githubusercontent.com/54184905/75623411-b9f35c80-5bba-11ea-90f0-f404dd3bd120.png)
+
+
+
 
 
